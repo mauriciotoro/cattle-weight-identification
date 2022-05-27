@@ -3,4 +3,4 @@ Cattle-Weight Identification
 
 Authors: Rodrigo García, Marvin Jiménez
 
-Other Contributors: Jose Aguilar, Mauricio Toro
+Other Contributors: Jose Aguilar, Mauricio Toro, Manuela Zapata
